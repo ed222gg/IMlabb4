@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="$safeprojectname$.Branch">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Branch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="$safeprojectname$.Competition">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAIAAAAAAAQAAAAAABAAAAQAAEAAAAAA=</HashCode>
+      <FileName>Competition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="$safeprojectname$.DataStore">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAAAAAAhAgAAgAAISAAAAABAAAAACAIAAABBA=</HashCode>
+      <FileName>Datastore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="$safeprojectname$.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAACAAAAAAAAAAAAAAAAAAAEAAAAABABAACAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="$safeprojectname$.RefereeMenu">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAAAAAAAAEAAAAAAABCAAABAAAAAAAA=</HashCode>
+      <FileName>Referee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="$safeprojectname$.SecretaryMenu">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAIAAAAAAAAAAAgAAAAAABCAAABABAAAAAA=</HashCode>
+      <FileName>Secretary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="$safeprojectname$.Team" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="$safeprojectname$.TestDatastore" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAAAAA=</HashCode>
+      <FileName>TestDatastore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="$safeprojectname$.TestSecretary" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>TestSecretary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

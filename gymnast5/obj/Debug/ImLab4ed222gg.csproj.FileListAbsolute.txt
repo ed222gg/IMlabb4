@@ -1,0 +1,12 @@
+E:\Library\Documents\GitHub\gymnast5\bin\Debug\$safeprojectname$.exe.config
+E:\Library\Documents\GitHub\gymnast5\obj\Debug\ImLab4ed222gg.csprojResolveAssemblyReference.cache
+E:\Library\Documents\GitHub\gymnast5\bin\Debug\$safeprojectname$.exe
+E:\Library\Documents\GitHub\gymnast5\bin\Debug\$safeprojectname$.pdb
+E:\Library\Documents\GitHub\gymnast5\obj\Debug\$safeprojectname$.exe
+E:\Library\Documents\GitHub\gymnast5\obj\Debug\$safeprojectname$.pdb
+C:\Users\ed222gg\Downloads\gymnast5\bin\Debug\$safeprojectname$.exe.config
+C:\Users\ed222gg\Downloads\gymnast5\obj\Debug\$safeprojectname$.exe
+C:\Users\ed222gg\Downloads\gymnast5\obj\Debug\$safeprojectname$.pdb
+C:\Users\ed222gg\Downloads\gymnast5\bin\Debug\$safeprojectname$.exe
+C:\Users\ed222gg\Downloads\gymnast5\bin\Debug\$safeprojectname$.pdb
+C:\Users\ed222gg\Downloads\gymnast5\obj\Debug\ImLab4ed222gg.csprojResolveAssemblyReference.cache

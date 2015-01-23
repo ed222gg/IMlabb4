@@ -1,0 +1,34 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>ImLab4ed222gg20150113</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>ImLab4ed222gg20150113</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="ImLab4ed222gg.csproj" File="ImLab4ed222gg.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Branch.cs">Branch.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ClassDiagram1.cd">ClassDiagram1.cd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Competition.cs">Competition.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Datastore.cs">Datastore.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Referee.cs">Referee.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Secretary.cs">Secretary.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Team.cs">Team.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TestDatastore.cs">TestDatastore.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TestSecretary.cs">TestSecretary.cs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
